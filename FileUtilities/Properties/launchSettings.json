@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileUtilities": {
+      "commandName": "Project",
+      "commandLineArgs": "combined --path \"./test1.txt\""
+    }
+  }
+} 
